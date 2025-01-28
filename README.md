@@ -1,3 +1,3 @@
-# Toboolist
+# Taboolist
 
-piccola rappresentezione di una toboolist
+piccola rappresentezione di una taboolist
