@@ -13,6 +13,7 @@ COMANDI
 .box-inline-block{
     display: inline-block;
 }
+
 .vertical-middle{
     vertical-align:middle;
 }
@@ -29,3 +30,36 @@ header{
     font-size:28px;
 }
 
+/****************
+CONTENUTO PAGINA
+****************/
+
+main{
+    background-color:#F7F8F9;
+}
+
+.box{
+    max-width:70%;
+    margin:0 auto;
+    border-top-right-radius:3px;
+    border-top-left-radius:3px;
+    background-color:white;
+}
+
+.btn{
+    padding:8px;
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-bottom: 8px;
+}
+
+#add-task{
+    background-color:#48ADF1;
+    color:#FFFFFF;
+    margin-left:50px;
+}
+
+#add-section{
+    color:#D2D7DB;
+    border:1px solid #D2D7DB;
+}
